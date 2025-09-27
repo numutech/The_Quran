@@ -1,6 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# Tell me about surah Fatiah
+# Surah Fatiah
 
 Surah Al-Fatihah, also known as "The Opening," is the first chapter of the Quran, consisting of seven verses that serve as an essential prayer and summary of Islamic faith. It is recited in every unit of the Muslim prayer (Salah) and is considered the greatest surah in the Quran according to authentic Hadith narrated by Prophet Muhammad (peace be upon him).
 
